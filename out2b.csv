@@ -1,0 +1,21 @@
+Results Output file from Project 2 - ECE160
+===========================================
+Input file read:  test1.csv
+Original data series (x,y) and generated fit are given below
+
+
+x           y           ycalc     
+=========  =========  =========
+-3.000000, 0.900000,    0.901775
+-2.000000, 0.800000,    0.791163
+-1.000000, 0.400000,    0.418641
+-0.200000, 0.200000,    0.184589
+1.000000, 0.100000,    0.104143
+3.000000, 0.000000,    -0.000311
+
+Polynomial order chosen for fit: 4
+
+The best-fit Least-Squares equation is: 
+y = 0.14806x^0 + -0.15811x^1 + 0.12330x^2 + 0.00086x^3 + -0.00996x^4
+
+End of output file.
