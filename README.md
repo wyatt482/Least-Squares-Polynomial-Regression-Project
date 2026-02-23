@@ -22,9 +22,9 @@ test1.csv
 1.000,0.1
 3.000,0
 
-
+```
 ## Example Output
-
+```
 ./project2
 Enter the polynomial order (1-4): 3
 Enter name of the data file: test1.csv
@@ -58,8 +58,10 @@ y = 0.21808x^0 + -0.21064x^1 + 0.02822x^2 + 0.00628x^3
 Name of output file saved results data: out2a.csv
 Data has been successfully put into out2a.csv
 
-
+```
 ## Example Output File Format
+```
+
 out2a.csv
 
 Results Output file from Project 2 - ECE160
@@ -90,3 +92,4 @@ gcc -o project2 project2.c -lm
 
 ## Run
 ./project2
+```
