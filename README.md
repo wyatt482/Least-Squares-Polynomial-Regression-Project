@@ -84,7 +84,7 @@ End of output file.
 
 
 ## Compilation
-gcc -o project2 project2.c
+gcc -o project2 project2.c -lm
 
 ## Run
 ./project2
