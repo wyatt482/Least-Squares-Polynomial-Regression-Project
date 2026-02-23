@@ -12,6 +12,7 @@ C program that performs least-squares polynomial regression (orders 1-4) using G
 
 
 ## Example Data file
+```
 test1.csv
 
 -3.000,0.9
@@ -23,6 +24,7 @@ test1.csv
 
 
 ## Example Output
+
 ./project2
 Enter the polynomial order (1-4): 3
 Enter name of the data file: test1.csv
