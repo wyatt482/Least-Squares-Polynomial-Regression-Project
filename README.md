@@ -64,8 +64,8 @@ Data has been successfully put into out2a.csv
 
 out2a.csv
 
-Results Output file from Project 2 - ECE160
-===========================================
+Results Output file
+===================
 Input file read:  test1.csv
 Original data series (x,y) and generated fit are given below
 
