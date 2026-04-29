@@ -1,7 +1,6 @@
 /*
 * project2.c
 * Wyatt Loo
-* ECE 160
 * 11/24/25
 * Description and Purpose
 * The program first creates a struct, and all of the variables required for this program are declared in this struct.
